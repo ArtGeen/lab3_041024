@@ -1,0 +1,7 @@
+Y:\Б722\ArtGeen\gitignore\examples\ex01\obj\Debug\net8.0\ex01.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Б722\ArtGeen\gitignore\examples\ex01\obj\Debug\net8.0\ex01.AssemblyInfoInputs.cache
+Y:\Б722\ArtGeen\gitignore\examples\ex01\obj\Debug\net8.0\ex01.AssemblyInfo.cs
+Y:\Б722\ArtGeen\gitignore\examples\ex01\obj\Debug\net8.0\ex01.csproj.CoreCompileInputs.cache
+Y:\Б722\ArtGeen\gitignore\examples\ex01\obj\Debug\net8.0\ex01.dll
+Y:\Б722\ArtGeen\gitignore\examples\ex01\obj\Debug\net8.0\refint\ex01.dll
+Y:\Б722\ArtGeen\gitignore\examples\ex01\obj\Debug\net8.0\ex01.pdb
